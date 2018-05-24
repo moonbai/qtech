@@ -7,4 +7,4 @@
 
 3.新增作者反馈入口
 【内容】
-【链接】https://github.com/moonbai/qtech/blob/master/%E9%9D%92%E7%90%86%E5%B7%A5%E5%8A%A9%E6%89%8B_1.3.apk【链接】
+【链接】https://github.com/moonbai/qtech/blob/master/qtech_1.4.apk【链接】
