@@ -7,6 +7,4 @@
 2.重制应用关于界面
 3.新增作者联系入口
 【内容】
-【链接】
-https://github.com/moonbai/qtech/blob/master/qtech_1.4.apk
-【链接】
+【链接】https://github.com/moonbai/qtech/blob/master/qtech_1.4.apk【链接】
